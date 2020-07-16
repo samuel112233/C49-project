@@ -1,0 +1,19 @@
+h1{
+    color: #1e824c;
+}
+
+p{
+    color: #f15a22;
+}
+
+.header{
+    background-color: #29f1c3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.School{
+    background-color: #fde3a7;
+    background-image: url();
+    
+}
